@@ -1,15 +1,22 @@
 header {
   clear: both;
+  overflow: auto;
   text-align: center;
   * {
     font-weight: normal;
   }
+  #myContact-wrapper {
+    margin: 1em 0;
+  }
+  #myContact-group {
+    display: inline-block;
+  }
   .myContact {
     border-left: 1px solid black;
-    display: block;
     float: left;
-    font-size: 1.2em;
-    padding: 0 5px 0 6px;
+    font-size: 1em;
+    margin: 0;
+    padding: .1em 1em;
   }
   .myContact:first-child {
     border-left: none;
@@ -26,5 +33,18 @@ header {
 }
 
 footer {
+  margin: 10px auto;
   text-align: center;
+}
+
+section {
+  h1 {
+    font-size: 1.5em;
+    font-weight: normal;
+  }
+  section {
+    h1 {
+      font-size: 1.3em;
+    }
+  }
 }
