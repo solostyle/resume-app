@@ -15,9 +15,9 @@ header {
         font-size: 1em;
         margin: 0;
         padding: .1em 1em;
-      }
-      .myContact:first-child {
-        border-left: none;
+        &:first-child {
+          border-left: none;
+        }
       }
       #myAddress:before {
         content:'Add:\0020';
