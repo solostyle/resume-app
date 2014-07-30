@@ -1,11 +1,13 @@
 header {
+  clear: both;
   text-align: center;
   * {
     font-weight: normal;
   }
   .myContact {
     border-left: 1px solid black;
-    display: inline;
+    display: block;
+    float: left;
     font-size: 1.2em;
     padding: 0 5px 0 6px;
   }
