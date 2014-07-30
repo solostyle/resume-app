@@ -1,0 +1,24 @@
+header {
+  text-align: center;
+  * {
+    font-weight: normal;
+  }
+  .myContact {
+    border-left: 1px solid black;
+    display: inline;
+    font-size: 1.2em;
+    padding: 0 5px 0 6px;
+  }
+  .myContact:first-child {
+    border-left: none;
+  }
+  #myAddress:before {
+    content:'Add:\0020';
+  }
+  #myPhone:before {
+    content:'Ph:\0020';
+  }
+  #myEmail:before {
+    content:'E:\0020';
+  }
+}
