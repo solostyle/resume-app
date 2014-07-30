@@ -1387,3 +1387,108 @@ Started GET "/assets/overrides.css.scss" for 127.0.0.1 at 2014-07-30 08:58:56 -0
 
 
 Started GET "/assets/resume.css.scss" for 127.0.0.1 at 2014-07-30 08:58:56 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-30 09:01:39 -0600
+Processing by ResumeController#index as HTML
+  Rendered resume/index.html.erb within layouts/application (0.0ms)
+  Rendered shared/_header.html.erb (0.1ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-30 09:01:39 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-30 09:01:39 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-30 09:01:39 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-30 09:01:39 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-30 09:01:39 -0600
+
+
+Started GET "/assets/normalize.css.scss" for 127.0.0.1 at 2014-07-30 09:01:39 -0600
+
+
+Started GET "/assets/scaffolds.css.scss" for 127.0.0.1 at 2014-07-30 09:01:39 -0600
+
+
+Started GET "/assets/overrides.css.scss" for 127.0.0.1 at 2014-07-30 09:01:39 -0600
+
+
+Started GET "/assets/resume.css.scss" for 127.0.0.1 at 2014-07-30 09:01:39 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-30 09:02:04 -0600
+Processing by ResumeController#index as HTML
+  Rendered resume/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (0.0ms)
+  Rendered shared/_footer.html.erb (0.1ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-30 09:02:04 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-30 09:02:04 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-30 09:02:04 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-30 09:02:04 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-30 09:02:04 -0600
+
+
+Started GET "/assets/normalize.css.scss" for 127.0.0.1 at 2014-07-30 09:02:04 -0600
+
+
+Started GET "/assets/overrides.css.scss" for 127.0.0.1 at 2014-07-30 09:02:04 -0600
+
+
+Started GET "/assets/scaffolds.css.scss" for 127.0.0.1 at 2014-07-30 09:02:04 -0600
+
+
+Started GET "/assets/resume.css.scss" for 127.0.0.1 at 2014-07-30 09:02:04 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-30 09:03:03 -0600
+Processing by ResumeController#index as HTML
+  Rendered resume/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (0.0ms)
+  Rendered shared/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-30 09:03:03 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-30 09:03:03 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-30 09:03:03 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-30 09:03:03 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-30 09:03:03 -0600
+
+
+Started GET "/assets/normalize.css.scss" for 127.0.0.1 at 2014-07-30 09:03:04 -0600
+
+
+Started GET "/assets/scaffolds.css.scss" for 127.0.0.1 at 2014-07-30 09:03:04 -0600
+
+
+Started GET "/assets/resume.css.scss" for 127.0.0.1 at 2014-07-30 09:03:04 -0600
+
+
+Started GET "/assets/overrides.css.scss" for 127.0.0.1 at 2014-07-30 09:03:04 -0600
