@@ -1,6 +1,26 @@
 body {
-  font-size: 60%;
-  * {
-    /*font-size: 1em !important;*/
+  p, li {
+    font-size: 80% !important;
+  }
+  header {
+    h1, h2, h3, #myContact-wrapper {
+      line-height: normal;
+      margin: .3em 0;
+    }
+    h1 {
+      font-size: 1em !important;
+    }
+    h2 {
+      font-size: .8em !important;
+    }
+    h3 {
+      font-size: .6em !important;
+    }
+    h2#myTitle-engineer {
+      display: block !important;
+    }
+    h2#myTitle-developer {
+      display: none;
+    }
   }
 }
